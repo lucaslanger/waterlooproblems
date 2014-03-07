@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.Arrays;
 
+=======
+>>>>>>> a1d0ad0bcb37e51f10be2da0cda73a0470a7ad8d
 
 public class Safebreaker {
 
@@ -8,6 +11,7 @@ public class Safebreaker {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		Safebreaker sb = new Safebreaker(new String[]{"1234", "2/2"});//{"6428" ,"3/0","1357","3/0"});
 		/*"9793", "0/1", "2384", "0/2", "6264", "0/1",
 				"3383", "1/0",
@@ -118,4 +122,10 @@ public class Safebreaker {
 		return rval;
 	}
 	
+=======
+		// TODO Auto-generated method stub
+
+	}
+
+>>>>>>> a1d0ad0bcb37e51f10be2da0cda73a0470a7ad8d
 }
